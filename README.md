@@ -8,7 +8,7 @@ ASP.NET 4.5.2
 
 # REST - varia dependiendo entorno 
 
-Markup : * http://localhost:52479/api/ApiComments
-         * http://localhost:52479/api/ApiUsers
-         * http://localhost:52479/api/ApiUITasks
-         * http://localhost:52479/api/ApiProjects
+1. http://localhost:52479/api/ApiComments
+2. http://localhost:52479/api/ApiUsers
+3. http://localhost:52479/api/ApiUITasks
+4. http://localhost:52479/api/ApiProjects
