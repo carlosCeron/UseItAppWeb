@@ -2,9 +2,9 @@
 
 Proyecto Trabajado con 
 
-Entity Framework 6.0.0
-Sql Server Express
-ASP.NET 4.5.2
+* Entity Framework 6.0.0
+* Sql Server Express
+* ASP.NET 4.5.2
 
 # REST - varia dependiendo entorno 
 
