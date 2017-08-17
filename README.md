@@ -13,4 +13,16 @@ Proyecto Trabajado con
 3. http://localhost:52479/api/ApiUITasks
 4. http://localhost:52479/api/ApiProjects
 
+#Usuario de Prueba
+
+1. Admin@admin.com => admin
+   Password#1
+
+2. carlos.ceron.1986@gmail.com => leader
+   Password#2
+
+3. user1@gmail.com => registered
+   Password#3
+
+
 # Carlos Ceron
